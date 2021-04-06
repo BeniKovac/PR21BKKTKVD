@@ -57,9 +57,7 @@ Količina posameznih tipov vozil se spreminja različno.
 Število tovornih vozil s prikolico do leta 2007 narašča, nato pa krepko pade. Domnevamo, da zaradi gospodarske krize, ki se je zgodila leta 2008 in je pustila posledice še v kasnejših letih. 
 
 ### Kako se je spreminjala obremenitev posameznih prometnih odsekov skozi leta?
-![Obremenitev odsekov](slike/odseki.png)
-
-**Spreminjanje enega ali dveh odsekov skozi leta - graf**
+![Obremenitev odsekov](slike/sprememba.jfif)
 
 ### Ali lahko odseke razdelimo v skupine samo glede na količino posameznih vrst vozil?
 ![Gručenje](slike/gruce.png)
