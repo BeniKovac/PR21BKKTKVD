@@ -23,6 +23,7 @@ for i in range(2000, 2020, 1):
                 merilna_mesta_na_zacetku.add(vrstica[6])
             merilna_mesta.add(vrstica[6])
             trenutna_merilna_mesta.add(vrstica[6])
+            if vrstica[6] == '100': print(i)
 
         if i == 2000:
             popolna_merilna_mesta = merilna_mesta_na_zacetku
