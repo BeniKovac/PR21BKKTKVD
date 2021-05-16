@@ -84,9 +84,10 @@ Opazimo, da število avtobusov in osebnih vozil narašča z relativno enako hitr
 (je pa osebnih vozil pribljižno 100-krat več kot avtobusov).
 ![Avtobusi in osebna vozila ](slike/avtobusiOsebnaLine.png)
 Za primerjavo smo izrisali še črtni grafikon, iz katerega je bolj razviden trend.
+
 ![Težki tovornjaki in tovornjaki s prikolico](slike/tovornjakiPrikolicaTezki.png)
 Grafa tovornih vozil s prikolico in težkih tovornjakov po letih na skupni sliki. 
-Lepo se vidi da je število obojih do gospodarske krize leta 2008 naraščalo (tovornih vozil s prikolico 
+Lepo se vidi, da je število obojih do gospodarske krize leta 2008 naraščalo (tovornih vozil s prikolico 
 je do tega leta do 3-krat več na leto kot težkih tovornjakov). Od 2008 naprej je število tovornih 
 vozil s prikolico strmo padlo, število težkih tovornjakov pa malo manj strmo, a še vseeno. 
 Okoli leta 2013 je število obeh vrst vozil začelo ponovno naraščati.
@@ -134,18 +135,3 @@ Med izdelavo projektne naloge smo ugotovili, da niso vsi podatki enakovredni. Ne
 Žal smo lahko le izrisali nekaj grafov ter izvedli gručenje. Nismo mogli dobro napovedovati, čeprav se je sprva zdelo, da bomo lahko. Morda bi bili 
 boljši rezultati, če bi imeli zraven dodatne informacije, kot so npr. vreme, ali pa da bi bili podatki razdeljeni po mesecih namesto
 po letih. Največ dela smo imeli z obdelavo podatkov in ugotavljanjem, kaj bi lahko s temi podatki sploh naredili.
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
